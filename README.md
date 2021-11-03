@@ -1,7 +1,4 @@
-professional auto say 😂
-
-# run :
-npm i discord.js@v12
+## professional auto say 😂
 
 
 # copyrights: 
