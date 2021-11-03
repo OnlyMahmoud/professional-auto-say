@@ -57,4 +57,5 @@ const  embed                  = new
 
 client          .          login                    
                             
-('TOKEN')
+('TOKEN')//client          .      login                        
+ //           (process.env.token)
