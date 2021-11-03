@@ -1,4 +1,7 @@
 //Hi - https://www.thailandcodes.cf
+require
+            ("dotenv")
+                    .config()
 const
             Discord       
                                 = require           
