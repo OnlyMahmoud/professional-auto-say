@@ -1,4 +1,4 @@
-//Hi
+//Hi - https://www.thailandcodes.cf
 const
             Discord       
                                 = require           
