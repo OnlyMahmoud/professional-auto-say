@@ -35,6 +35,26 @@ client.
     }
 })
 
+client.         
+        on("message",    
+                        message =>{
+
+    if(message
+                .content          .startsWith("hi")){
+const  embed                  = new                              
+                 Discord                    .        
+                            MessageEmbed
+        ()
+.               setDescription(`Hi ${message.             
+                        
+    author}`)
+                    message                 .channel.
+                
+                    send            
+                                    (embed)
+    }
+})
+
 client          .          login                    
                             
 ('TOKEN')
